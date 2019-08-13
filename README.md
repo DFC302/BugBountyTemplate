@@ -6,6 +6,7 @@ A simple Cherry Tree template that can be used to organize bug bounties
 2) git clone https://github.com/DFC302/BugBountyTemplate.git
 3) Save the template somewhere useful, like Documents
 4) Open cherry note, Select file --> open file --> [location/bugbounty.ctb], to load the template. (Do this for each new target)
+5) When saving, file --> save as, to save as a new file and perseve the orginal template.
 
 # Screenshots
 ![Template](https://github.com/DFC302/BugBountyTemplate/blob/master/images/template.png)
